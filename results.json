@@ -1,4 +1,34 @@
 [
-  {"name": "Namkeen Bhandar Ltd", "phone": "01234-567890", "address": "Kanpur", "url": "http://example.com", "rating": 4},
-  {"name": "Pvt Industries", "phone": "09876-543210", "address": "Kanpur", "url": "http://example2.com", "rating": 5}
+  {
+    "name": "Namkeen Bhandar Ltd",
+    "phone": "01234-567890",
+    "address": "Kanpur Central",
+    "url": "http://indiamart.com/namkeenbhandar",
+    "rating": 4.1,
+    "platform": "IndiaMart"
+  },
+  {
+    "name": "Kanpur Snacks Pvt Industries",
+    "phone": "09876-543210",
+    "address": "Kanpur Industrial Area",
+    "url": "http://indiamart.com/kanpursnacks",
+    "rating": 5.0,
+    "platform": "IndiaMart"
+  },
+  {
+    "name": "Ramesh Gruh Udyog",
+    "phone": "98765-43210",
+    "address": "Kanpur South",
+    "url": "http://justdial.com/rameshgruhudyog",
+    "rating": 4.5,
+    "platform": "JustDial"
+  },
+  {
+    "name": "Gupta Namkeen House",
+    "phone": "91234-55555",
+    "address": "Civil Lines, Kanpur",
+    "url": "http://justdial.com/guptanamkeen",
+    "rating": 4.8,
+    "platform": "JustDial"
+  }
 ]
